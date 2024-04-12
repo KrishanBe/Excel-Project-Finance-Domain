@@ -1,6 +1,9 @@
-# Excel-Project-Finance-Domain
+# Bank Loan Report Project
 
-BANK LOAN REPORT
+OVERVIEW
+
+The Bank Loan Report project aims to create comprehensive dashboards for monitoring and assessing the bank's lending activities and performance. It includes tracking key loan-related metrics such as total loan applications, funded amount, amount received, average interest rate, and debt-to-income ratio. The project also involves distinguishing between 'Good Loans' and 'Bad Loans' based on specific loan status criteria. Visualizations using various chart types like line charts, filled maps, donut charts, bar charts, and tree maps will be used to represent critical loan-related trends and metrics, enabling data-driven decision-making and strategic planning within the lending operations.
+
 PROBLEM STATEMENT
 DASHBOARD 1: SUMMARY
 "In order to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
